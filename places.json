@@ -1,14 +1,13 @@
 [
   {
-    "id": 1,
-    "lat": 37.5665,
-    "lng": 126.9780,
-    "title": "서울시청"
-  },
-  {
-    "id": 2,
-    "lat": 37.5796,
-    "lng": 126.9770,
-    "title": "경복궁"
+    "name": "경영대학(별관 B112호)",
+    "category": "sleep",
+    "lat": 37.56499,
+    "lng": 126.9389812,
+    "weekday": "all",
+    "weekend": "6:00-18:00",
+    "noise": "low",
+    "reservation_required": false,
+    "scale": 16
   }
 ]
