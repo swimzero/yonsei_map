@@ -9,5 +9,16 @@
     "noise": "low",
     "reservation_required": false,
     "scale": 16
+  },
+  {
+    "name": "t",
+    "category": "sleep",
+    "lat": 37.5660508394158,
+    "lng": 126.943916239886,
+    "weekday": "all",
+    "weekend": "6:00-18:00",
+    "noise": "low",
+    "reservation_required": false,
+    "scale": 16
   }
 ]
