@@ -1,24 +1,248 @@
 [
   {
-    "name": "경영대학(별관 B112호)",
+    "name": "중앙도서관 6층 늘라온",
     "category": "sleep",
-    "lat": 37.56499,
-    "lng": 126.9389812,
-    "weekday": "all",
-    "weekend": "6:00-18:00",
+    "lat": null,
+    "lng": null,
+    "weekday": "6:00-23:00",
+    "weekend": "6:00-23:00",
     "noise": "low",
     "reservation_required": false,
-    "scale": 16
+    "scale": 8
   },
   {
-    "name": "t",
-    "category": "sleep",
-    "lat": 37.5660508394158,
-    "lng": 126.943916239886,
-    "weekday": "all",
-    "weekend": "6:00-18:00",
+    "name": "공학원 1층",
+    "category": "sit",
+    "lat": 37.56065,
+    "lng": 126.9358,
+    "weekday": "07:00-22:00",
+    "weekend": "X",
     "noise": "low",
     "reservation_required": false,
-    "scale": 16
-  }
-]
+    "scale": 32
+  },
+  {
+    "name": "공학원 지하 1층",
+    "category": "sit",
+    "lat": 37.56065,
+    "lng": 126.9358,
+    "weekday": "07:00-22:00",
+    "weekend": "X",
+    "noise": "middle",
+    "reservation_required": false,
+    "scale": 24
+  },
+  {
+    "name": "제 1 공학관 1층",
+    "category": "sit",
+    "lat": 37.56179,
+    "lng": 126.9366,
+    "weekday": "07:00-22:00",
+    "weekend": "X",
+    "noise": "high",
+    "reservation_required": false,
+    "scale": 100
+  },
+  {
+    "name": "제 1 공학관 2층",
+    "category": "sit",
+    "lat": 37.56191,
+    "lng": 126.9359,
+    "weekday": "07:00-22:00",
+    "weekend": "X",
+    "noise": "high",
+    "reservation_required": false,
+    "scale": 10
+  },
+  {
+    "name": "제 1 공학관 3층",
+    "category": "sit",
+    "lat": 37.56191,
+    "lng": 126.9359,
+    "weekday": "07:00-22:00",
+    "weekend": "X",
+    "noise": "high",
+    "reservation_required": false,
+    "scale": 10
+  },
+  {
+    "name": "제 2 공학관 1층",
+    "category": "sit",
+    "lat": 37.56229,
+    "lng": 126.935,
+    "weekday": "07:00-22:00",
+    "weekend": "X",
+    "noise": "middle",
+    "reservation_required": false,
+    "scale": 24
+  },
+  {
+    "name": "스포츠과학관 2층",
+    "category": "sit",
+    "lat": 37.56277,
+    "lng": 126.9355,
+    "weekday": "07:00-22:00",
+    "weekend": "X",
+    "noise": "high",
+    "reservation_required": false,
+    "scale": 12
+  },
+  {
+    "name": "과학관 1층",
+    "category": "sit / sleep",
+    "lat": 37.56414,
+    "lng": 126.9344,
+    "weekday": "07:00-22:00",
+    "weekend": "X",
+    "noise": "low",
+    "reservation_required": false,
+    "scale": 30
+  },
+  {
+    "name": "학술 정보관 8층 옥상정원",
+    "category": "sit",
+    "lat": 37.56386,
+    "lng": 126.936,
+    "weekday": "09:00-17:00",
+    "weekend": "X",
+    "noise": "middle",
+    "reservation_required": false,
+    "scale": 30
+  },
+  {
+    "name": "학술 정보관 8층 테이블",
+    "category": "sit",
+    "lat": 37.56386,
+    "lng": 126.936,
+    "weekday": "09:00-21:00",
+    "weekend": "09:00-21:00",
+    "noise": "low",
+    "reservation_required": false,
+    "scale": 24
+  },
+  {
+    "name": "학술 정보관 4층~8층",
+    "category": "sit",
+    "lat": 37.56386,
+    "lng": 126.936,
+    "weekday": "09:00-21:00",
+    "weekend": "09:00-21:00",
+    "noise": "low",
+    "reservation_required": false,
+    "scale": 120
+  },
+  {
+    "name": "학술정보관 3층 Y-FLOW",
+    "category": "sit / sleep",
+    "lat": 37.56386,
+    "lng": 126.936,
+    "weekday": "09:00-21:00",
+    "weekend": "X",
+    "noise": "low",
+    "reservation_required": false,
+    "scale": 10
+  },
+  {
+    "name": "학술정보관 1층 Y-SCAPE",
+    "category": "sit / sleep",
+    "lat": 37.56381,
+    "lng": 126.9364,
+    "weekday": "10:00-17:00",
+    "weekend": "X",
+    "noise": "low",
+    "reservation_required": false,
+    "scale": 8
+  },
+  {
+    "name": "경영대학 B209",
+    "category": "sleep",
+    "lat": 37.5648019,
+    "lng": 126.939094,
+    "weekday": "07:00-22:00",
+    "weekend": "X",
+    "noise": "low",
+    "reservation_required": false,
+    "scale": 5
+  },
+  {
+    "name": "경영대학 지하 2층 하온라운지",
+    "category": "sit",
+    "lat": 37.5648019,
+    "lng": 126.939094,
+    "weekday": "07:00-22:00",
+    "weekend": "X",
+    "noise": "middle",
+    "reservation_required": false,
+    "scale": 10
+  },
+  {
+    "name": "경영대학 지하 2층 혜윰라운지",
+    "category": "sit",
+    "lat": 37.5648019,
+    "lng": 126.939094,
+    "weekday": "07:00-22:00",
+    "weekend": "X",
+    "noise": "middle",
+    "reservation_required": false,
+    "scale": 50
+  },
+  {
+    "name": "경영대학 지하 1층 필운라운지",
+    "category": "sit",
+    "lat": 37.5648019,
+    "lng": 126.939094,
+    "weekday": "07:00-22:00",
+    "weekend": "X",
+    "noise": "middle",
+    "reservation_required": false,
+    "scale": 15
+  },
+  {
+    "name": "경영대학 지하 1층 공간",
+    "category": "sit",
+    "lat": 37.5648019,
+    "lng": 126.939094,
+    "weekday": "07:00-22:00",
+    "weekend": "X",
+    "noise": "high",
+    "reservation_required": false,
+    "scale": 30
+  },
+  {
+    "name": "경영대학 지하 1층 태온라운지",
+    "category": "sit",
+    "lat": 37.5648019,
+    "lng": 126.939094,
+    "weekday": "07:00-22:00",
+    "weekend": "X",
+    "noise": "middle",
+    "reservation_required": false,
+    "scale": 15
+  },
+  {
+    "name": "경영대학 1층 계단",
+    "category": "sit / sleep",
+    "lat": 37.5648019,
+    "lng": 126.939094,
+    "weekday": "07:00-22:00",
+    "weekend": "X",
+    "noise": "middle",
+    "reservation_required": false,
+    "scale": 100
+  },
+  {
+    "name": "경영대학 1층 라운지",
+    "category": "sit",
+    "lat": 37.5648019,
+    "lng": 126.939094,
+    "weekday": "07:00-22:00",
+    "weekend": "X",
+    "noise": "middle",
+    "reservation_required": false,
+    "scale": 40
+  },
+  {
+    "name": "경영대학 2층 아모레퍼시픽아트리움",
+    "category": "sit / sleep",
+    "lat": 37.5648019,
+    "lng": 126.939
