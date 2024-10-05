@@ -2,8 +2,8 @@
   {
     "name": "공학원 1층",
     "category": "sit",
-    "lat": 37.56065,
-    "lng": 126.9358,
+    "lat": 37.5608313,
+    "lng": 126.935725,
     "weekday": "07:00-22:00",
     "weekend": "X",
     "noise": "low",
@@ -13,8 +13,8 @@
   {
     "name": "공학원 지하 1층",
     "category": "sit",
-    "lat": 37.56065,
-    "lng": 126.5358,
+    "lat": 37.5608993,
+    "lng": 126.9353388,
     "weekday": "07:00-22:00",
     "weekend": "X",
     "noise": "middle",
