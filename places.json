@@ -234,4 +234,77 @@
     "name": "경영대학 2층 아모레퍼시픽아트리움",
     "category": "sit / sleep",
     "lat": 37.5648019,
-    "lng": 126.939
+    "lng": 126.939094,
+    "weekday": "07:00-22:00",
+    "weekend": "X",
+    "noise": "middle",
+    "reservation_required": false,
+    "scale": 30
+  },
+  {
+    "name": "경영대학 2층 이글루",
+    "category": "sit",
+    "lat": 37.5648019,
+    "lng": 126.939094,
+    "weekday": "07:00-22:00",
+    "weekend": "X",
+    "noise": "low",
+    "reservation_required": false,
+    "scale": 20
+  },
+  {
+    "name": "외솔관 지하계단 앞",
+    "category": "sleep",
+    "lat": 37.5662945,
+    "lng": 126.9372039,
+    "weekday": "07:00-22:30",
+    "weekend": "X",
+    "noise": "low",
+    "reservation_required": false,
+    "scale": 5
+  },
+  {
+    "name": "외솔관 지하1층 라운지",
+    "category": "sit",
+    "lat": 37.5662945,
+    "lng": 126.9372039,
+    "weekday": "07:00-22:30",
+    "weekend": "X",
+    "noise": "middle",
+    "reservation_required": false,
+    "scale": 10
+  },
+  {
+    "name": "외솔관 1층 라운지",
+    "category": "sit",
+    "lat": 37.5662945,
+    "lng": 126.9372039,
+    "weekday": "07:00-22:30",
+    "weekend": "X",
+    "noise": "middle",
+    "reservation_required": false,
+    "scale": 24
+  },
+  {
+    "name": "신학관 116",
+    "category": "sleep",
+    "lat": 37.5658641,
+    "lng": 126.9366792,
+    "weekday": "07:00-22:30",
+    "weekend": "X",
+    "noise": "low",
+    "reservation_required": false,
+    "scale": 5
+  },
+  {
+    "name": "연희관 120",
+    "category": "sleep",
+    "lat": 37.5672699,
+    "lng": 126.9390292,
+    "weekday": "07:00-22:30",
+    "weekend": "X",
+    "noise": "low",
+    "reservation_required": false,
+    "scale": 2
+  }
+]
