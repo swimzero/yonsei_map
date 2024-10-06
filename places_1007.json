@@ -1,5 +1,17 @@
 [
   {
+    "id": 1,
+    "name": "중앙도서관 6층 늘라온",
+    "category": "sleep",
+    "lat": 37.5637,
+    "lng": 126.9371,
+    "weekday": "06:00-23:00",
+    "weekend": "06:00-23:00",
+    "noise": "low",
+    "reservation_required": false,
+    "scale": 8
+  },
+  {
     "id": 2,
     "name": "공학원 1층",
     "category": "sit",
