@@ -67,7 +67,7 @@
     "lng": 126.9352164,
     "weekday": "07:00-22:00",
     "weekend": "X",
-    "noise": "mid"dle",
+    "noise": "middle",
     "reservation_required": false,
     "scale": 24
   },
@@ -103,7 +103,7 @@
     "lng": 126.9359986,
     "weekday": "09:00-17:00",
     "weekend": "X",
-    "noise": "mid"dle",
+    "noise": "middle",
     "reservation_required": false,
     "scale": 30
   },
@@ -175,7 +175,7 @@
     "lng": 126.939094,
     "weekday": "07:00-22:00",
     "weekend": "X",
-    "noise": "mid"dle",
+    "noise": "middle",
     "reservation_required": false,
     "scale": 10
   },
@@ -187,7 +187,7 @@
     "lng": 126.939094,
     "weekday": "07:00-22:00",
     "weekend": "X",
-    "noise": "mid"dle",
+    "noise": "middle",
     "reservation_required": false,
     "scale": 50
   },
@@ -199,7 +199,7 @@
     "lng": 126.939094,
     "weekday": "07:00-22:00",
     "weekend": "X",
-    "noise": "mid"dle",
+    "noise": "middle",
     "reservation_required": false,
     "scale": 15
   },
@@ -223,7 +223,7 @@
     "lng": 126.939094,
     "weekday": "07:00-22:00",
     "weekend": "X",
-    "noise": "mid"dle",
+    "noise": "middle",
     "reservation_required": false,
     "scale": 15
   },
@@ -235,7 +235,7 @@
     "lng": 126.939094,
     "weekday": "07:00-22:00",
     "weekend": "X",
-    "noise": "mid"dle",
+    "noise": "middle",
     "reservation_required": false,
     "scale": 100
   },
@@ -247,7 +247,7 @@
     "lng": 126.939094,
     "weekday": "07:00-22:00",
     "weekend": "X",
-    "noise": "mid"dle",
+    "noise": "middle",
     "reservation_required": false,
     "scale": 40
   },
@@ -259,7 +259,7 @@
     "lng": 126.939094,
     "weekday": "07:00-22:00",
     "weekend": "X",
-    "noise": "mid"dle",
+    "noise": "middle",
     "reservation_required": false,
     "scale": 30
   },
@@ -295,7 +295,7 @@
     "lng": 126.9367576,
     "weekday": "07:00-22:30",
     "weekend": "X",
-    "noise": "mid"dle",
+    "noise": "middle",
     "reservation_required": false,
     "scale": 10
   },
@@ -307,7 +307,7 @@
     "lng": 126.9369052,
     "weekday": "07:00-22:30",
     "weekend": "X",
-    "noise": "mid"dle",
+    "noise": "middle",
     "reservation_required": false,
     "scale": 24
   },
