@@ -165,7 +165,7 @@
     "weekend": "X",
     "noise": "low",
     "reservation_required": false,
-    "scale": 5
+    "scale": "5 (여성 휴게실)"
   },
   {
     "id": 0,
@@ -285,7 +285,7 @@
     "weekend": "X",
     "noise": "low",
     "reservation_required": false,
-    "scale": 5
+    "scale": "5 (여성 휴게실)"
   },
   {
     "id": 0,
@@ -321,7 +321,7 @@
     "weekend": "X",
     "noise": "low",
     "reservation_required": false,
-    "scale": 5
+    "scale": "5 (여성 휴게실)"
   },
   {
     "id": 0,
@@ -333,6 +333,6 @@
     "weekend": "X",
     "noise": "low",
     "reservation_required": false,
-    "scale": 2
+    "scale": "2 (여성 휴게실)"
   }
 ]
