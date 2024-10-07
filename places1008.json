@@ -101,7 +101,7 @@
     "category": "sit / sleep",
     "lat": 37.5641183,
     "lng": 126.9346387,
-    "weekday": "07:00-22:00",
+    "weekday": "07:00-17:00",
     "weekend": "X",
     "noise": "low",
     "reservation_required": false,
